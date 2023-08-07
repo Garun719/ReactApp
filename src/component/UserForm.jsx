@@ -5,7 +5,7 @@ function UserForm() {
   <>
   <form className='user-form' >
 
-<h1>User Signup</h1>
+<h1>User Signup <i class="fa-solid fa-user fa-sm" style={{color: "#3b7ae8;"}}></i></h1>
    <input type="text" className='input'placeholder='enter your email' />
    <input type="text" className='input'placeholder='enter your password' />
 
